@@ -1,0 +1,48 @@
+[
+    {
+        "TenantID": 1,
+        "username": "piotr.jacak@reload-hr.com",
+        "date": "2020-12-04",
+        "vendor": "SAP",
+        "amount": 100,
+        "currency": "EUR",
+        "tax_rate": 16,
+        "tax_amount": 16,
+        "category": "training",
+        "paid_with": "company_account",
+        "country": "DE",
+        "cost_center": "PJ",
+        "comments": "i have not comments"
+    },
+    {
+        "TenantID": 1,
+        "username": "piotr",
+        "date": "2020-12-04",
+        "vendor": "",
+        "amount": 21,
+        "currency": "EUR",
+        "tax rate": 16,
+        "tax amount": 16,
+        "category": "taxi",
+        "paid_with": "company_account",
+        "country": "DE",
+        "cost_center": "PJ",
+        "comments": "i have not comments"
+    },
+    {
+        "TenantID": 1,
+        "username": "piotr.jacak@reload-hr.com",
+        "date": "2020-12-04",
+        "vendor": "",
+        "amount": 213,
+        "currency": "EUR",
+        "tax rate": 16,
+        "tax amount": 16,
+        "category": "hotel",
+        "paid_with": "company_account",
+        "country": "DE",
+        "cost_center": "PJ",
+        "comments": "i have not comments"
+    }    
+]
+
